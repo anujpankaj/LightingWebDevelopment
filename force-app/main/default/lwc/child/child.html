@@ -1,0 +1,9 @@
+<template>
+    <h1>To Do Item (h1)</h1>
+    <slot></slot>
+    <div class="view">
+        <p>{itemName}</p>
+        <p>{newItemName}</p>
+        <lightning-button label="Change Item" onclick={handleClick}></lightning-button>
+    </div>
+</template>

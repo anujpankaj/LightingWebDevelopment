@@ -1,0 +1,15 @@
+<template>
+    <div class="slds-m-around_medium">
+            <lightning-card title="MiscSharedJavaScript" icon-name="custom:custom19">
+                    <lightning-input type="number" label="Principal" value={principal} onchange={principalChange}></lightning-input>
+                    <lightning-combobox label="Term" value={term} options={termoptions} onchange={termChange}></lightning-combobox>
+                    <lightning-input type="number"  label="Rate" value={rate} onchange={rateChange}></lightning-input>
+                    <p class="slds-m-vertical_small">
+                        <lightning-button label="Calculate Monthly Payment" onclick={calculateMonthlyPayment}></lightning-button>
+                    </p>
+                    <p>Monthly Payment</p>
+                    <lightning-formatted-number currency-code="USD" value={monthlyPayment}></lightning-formatted-number>
+                                
+            </lightning-card>
+    </div>    
+</template>

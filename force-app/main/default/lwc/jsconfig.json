@@ -1,0 +1,81 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/api-property": [
+                "apiProperty/apiProperty.js"
+            ],
+            "c/apply-lds": [
+                "ApplyLDS/ApplyLDS.js"
+            ],
+            "c/boole": [
+                "boole/boole.js"
+            ],
+            "c/chart-bar": [
+                "chartBar/chartBar.js"
+            ],
+            "c/child": [
+                "child/child.js"
+            ],
+            "c/fetch-detail": [
+                "FetchDetail/FetchDetail.js"
+            ],
+            "c/hello-world": [
+                "HelloWorld/HelloWorld.js"
+            ],
+            "c/libs-d3": [
+                "libsD3/libsD3.js"
+            ],
+            "c/method-caller": [
+                "methodCaller/methodCaller.js"
+            ],
+            "c/misc-shared-java-script": [
+                "miscSharedJavaScript/miscSharedJavaScript.js"
+            ],
+            "c/mortage": [
+                "mortage/mortage.js"
+            ],
+            "c/my-component": [
+                "myComponent/myComponent.js"
+            ],
+            "c/named-slots": [
+                "namedSlots/namedSlots.js"
+            ],
+            "c/parent": [
+                "parent/parent.js"
+            ],
+            "c/render-dom-element-conditionally": [
+                "RenderDOMElementConditionally/RenderDOMElementConditionally.js"
+            ],
+            "c/render-list": [
+                "RenderList/RenderList.js"
+            ],
+            "c/slot-demo": [
+                "slotDemo/slotDemo.js"
+            ],
+            "c/slots-wrapper": [
+                "slotsWrapper/slotsWrapper.js"
+            ],
+            "c/slot-wrapper": [
+                "slotWrapper/slotWrapper.js"
+            ],
+            "c/todo-app": [
+                "todoApp/todoApp.js"
+            ],
+            "c/todo-item": [
+                "todoItem/todoItem.js"
+            ],
+            "c/track-object": [
+                "trackObject/trackObject.js"
+            ],
+            "c/video-player": [
+                "videoPlayer/videoPlayer.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}

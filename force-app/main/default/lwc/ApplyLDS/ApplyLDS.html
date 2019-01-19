@@ -1,0 +1,8 @@
+<template>
+    <div class="slds-tree_container" role="application">
+        <h4  class="slds-text-title_caps" id="treeheading">{header}</h4>
+        <template if:true={state.node}>
+            <lightning-tree class="slds-tree" role="tree" aria-labelledby="treeheading" node={state.node} is-root></lightning-tree>
+        </template>
+    </div>
+</template>
