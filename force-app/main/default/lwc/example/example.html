@@ -1,0 +1,14 @@
+<template>
+    <div>Frist <slot name="task1"> Task 1</slot></div>
+    <div>Second <slot name="task 2">Task 2</slot></div>
+    <lightning-card title="AxisBank" icon-name="custom:custom19">
+        <div class="slds-m-around_medium">
+            <img src={axisbankimageurl}/>
+        </div>
+        <br>
+         {label.firstLabel}
+         <p lang={lang} dir={dir}><!-- Localized text in a paragraph -->
+            User Id : {userid}
+        </p>
+    </lightning-card>
+</template>
