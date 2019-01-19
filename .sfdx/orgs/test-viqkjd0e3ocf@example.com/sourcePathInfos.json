@@ -63,9 +63,9 @@
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1547888018032,
-            "changeTime": 1547888018032,
-            "contentHash": "7baeeedef25144ba3f2df6e2778d55dc561641b8",
+            "modifiedTime": 1547896977921,
+            "changeTime": 1547896977921,
+            "contentHash": "c01ee45c413498d7a5d06406729a123b757c7de2",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -488,27 +488,27 @@
     [
         "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\child\\child.html",
         {
+            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\child\\child.html",
             "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1547283659349,
-            "changeTime": 1547283659349,
-            "contentHash": "9273bb4737f6cc8959a3b59710a9324c78e04c57",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 380,
+            "modifiedTime": 1547898383091,
+            "changeTime": 1547898383091,
+            "contentHash": "136481f858bc2a34dd80a2b6ceea499168cb4e13"
         }
     ],
     [
         "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\child\\child.js",
         {
+            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\child\\child.js",
             "isDirectory": false,
-            "size": 446,
-            "modifiedTime": 1547285371996,
-            "changeTime": 1547285371996,
-            "contentHash": "f04c3d8a34381a637bbd70d5768522bf907483b6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 480,
+            "modifiedTime": 1547898427349,
+            "changeTime": 1547898427349,
+            "contentHash": "8c606fa951fcc6e651e534e0ca0de09055a9069d"
         }
     ],
     [
@@ -540,27 +540,27 @@
     [
         "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\parent\\parent.html",
         {
-            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\parent\\parent.html",
             "isDirectory": false,
+            "size": 761,
+            "modifiedTime": 1547897815291,
+            "changeTime": 1547897815291,
+            "contentHash": "12b0297ed8907ad83cadf0b0ccd62ef2aca2c457",
             "isMetadataFile": false,
-            "size": 601,
-            "modifiedTime": 1547896576907,
-            "changeTime": 1547896576907,
-            "contentHash": "7bafd5715cca7a9b42afdb1774c564cf478895fd"
+            "state": "u"
         }
     ],
     [
         "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\parent\\parent.js",
         {
-            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\parent\\parent.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 165,
             "modifiedTime": 1547896572534,
             "changeTime": 1547896572534,
-            "contentHash": "ece599edf8be7f0273fa402e19c1c29310b9f79a"
+            "contentHash": "ece599edf8be7f0273fa402e19c1c29310b9f79a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1651,6 +1651,58 @@
             "modifiedTime": 1547889459016,
             "changeTime": 1547889459016,
             "contentHash": "de381fd02b3394ecac43a96459fe48963fb32453",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547896977946,
+            "changeTime": 1547896977946,
+            "contentHash": "dcf6299a8416b33a36f5dd70df78fe9a56c4b08e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton\\lightningbutton.html",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton\\lightningbutton.html",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1547897695694,
+            "changeTime": 1547897695694,
+            "contentHash": "ddbba1af19b508c6cf4666d1c2bf350ee2e0e4eb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton\\lightningbutton.js",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton\\lightningbutton.js",
+            "isDirectory": false,
+            "size": 473,
+            "modifiedTime": 1547897463904,
+            "changeTime": 1547897463904,
+            "contentHash": "90a1bebab4b659c98cda646aded71fd087f20cfc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton\\lightningbutton.js-meta.xml",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponent\\force-app\\main\\default\\lwc\\lightningbutton\\lightningbutton.js-meta.xml",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1547897459208,
+            "changeTime": 1547897459208,
+            "contentHash": "4738b56fb6e9603a923a317a0a856d254ff0fb09",
             "isMetadataFile": true,
             "state": "u"
         }
