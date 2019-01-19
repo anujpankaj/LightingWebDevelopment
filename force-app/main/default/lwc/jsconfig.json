@@ -12,11 +12,17 @@
             "c/boole": [
                 "boole/boole.js"
             ],
+            "c/boundary": [
+                "boundary/boundary.js"
+            ],
             "c/chart-bar": [
                 "chartBar/chartBar.js"
             ],
             "c/child": [
                 "child/child.js"
+            ],
+            "c/example": [
+                "example/example.js"
             ],
             "c/fetch-detail": [
                 "FetchDetail/FetchDetail.js"
@@ -26,6 +32,9 @@
             ],
             "c/libs-d3": [
                 "libsD3/libsD3.js"
+            ],
+            "c/lightningbutton": [
+                "lightningbutton/lightningbutton.js"
             ],
             "c/method-caller": [
                 "methodCaller/methodCaller.js"
