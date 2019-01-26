@@ -7,7 +7,7 @@
                 "apiProperty/apiProperty.js"
             ],
             "c/apply-lds": [
-                "ApplyLDS/ApplyLDS.js"
+                "applyLDS/applyLDS.js"
             ],
             "c/boole": [
                 "boole/boole.js"
@@ -21,14 +21,17 @@
             "c/child": [
                 "child/child.js"
             ],
+            "c/event-simple": [
+                "eventSimple/eventSimple.js"
+            ],
             "c/example": [
                 "example/example.js"
             ],
             "c/fetch-detail": [
-                "FetchDetail/FetchDetail.js"
+                "fetchDetail/fetchDetail.js"
             ],
             "c/hello-world": [
-                "HelloWorld/HelloWorld.js"
+                "helloWorld/helloWorld.js"
             ],
             "c/libs-d3": [
                 "libsD3/libsD3.js"
@@ -50,6 +53,9 @@
             ],
             "c/named-slots": [
                 "namedSlots/namedSlots.js"
+            ],
+            "c/paginator": [
+                "paginator/paginator.js"
             ],
             "c/parent": [
                 "parent/parent.js"
