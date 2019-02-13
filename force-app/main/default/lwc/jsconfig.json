@@ -1,0 +1,102 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/api-property": [
+                "apiProperty/apiProperty.js"
+            ],
+            "c/apply-lds": [
+                "applyLDS/applyLDS.js"
+            ],
+            "c/boole": [
+                "boole/boole.js"
+            ],
+            "c/boundary": [
+                "boundary/boundary.js"
+            ],
+            "c/chart-bar": [
+                "chartBar/chartBar.js"
+            ],
+            "c/child": [
+                "child/child.js"
+            ],
+            "c/contact-list-item": [
+                "contactListItem/contactListItem.js"
+            ],
+            "c/event-simple": [
+                "eventSimple/eventSimple.js"
+            ],
+            "c/example": [
+                "example/example.js"
+            ],
+            "c/fetch-detail": [
+                "fetchDetail/fetchDetail.js"
+            ],
+            "c/first-web-component": [
+                "firstWebComponent/firstWebComponent.js"
+            ],
+            "c/hello-world": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/libs-d3": [
+                "libsD3/libsD3.js"
+            ],
+            "c/lightningbutton": [
+                "lightningbutton/lightningbutton.js"
+            ],
+            "c/method-caller": [
+                "methodCaller/methodCaller.js"
+            ],
+            "c/misc-shared-java-script": [
+                "miscSharedJavaScript/miscSharedJavaScript.js"
+            ],
+            "c/mortage": [
+                "mortage/mortage.js"
+            ],
+            "c/my-component": [
+                "myComponent/myComponent.js"
+            ],
+            "c/named-slots": [
+                "namedSlots/namedSlots.js"
+            ],
+            "c/paginator": [
+                "paginator/paginator.js"
+            ],
+            "c/parent": [
+                "parent/parent.js"
+            ],
+            "c/render-dom-element-conditionally": [
+                "renderDOMElementConditionally/renderDOMElementConditionally.js"
+            ],
+            "c/render-list": [
+                "renderList/renderList.js"
+            ],
+            "c/slot-demo": [
+                "slotDemo/slotDemo.js"
+            ],
+            "c/slots-wrapper": [
+                "slotsWrapper/slotsWrapper.js"
+            ],
+            "c/slot-wrapper": [
+                "slotWrapper/slotWrapper.js"
+            ],
+            "c/todo-app": [
+                "todoApp/todoApp.js"
+            ],
+            "c/todo-item": [
+                "todoItem/todoItem.js"
+            ],
+            "c/track-object": [
+                "trackObject/trackObject.js"
+            ],
+            "c/video-player": [
+                "videoPlayer/videoPlayer.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}

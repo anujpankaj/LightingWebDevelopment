@@ -1,0 +1,24 @@
+<template>
+    <div class="listing">
+        <c-todo-item item-name="Milk"></c-todo-item>
+        <c-todo-item item-name="Bread"></c-todo-item>
+    </div>
+    <div>
+        <label>In side for loop </label>
+        <ul class="slds-m-around_medium">
+            <template for:each={items} for:item="item">
+                    <li key={item.id}>
+                            <c-todo-item item-name={item.name}></c-todo-item>
+                     </li>
+            </template>            
+        </ul>
+    </div>
+    <div>
+        <label>Set properties on child components</label>
+         <c-todo-item item-name={changeItem}></c-todo-item>   
+         <p>Item in todoapp : {changeItem} </p>
+         <p>
+             <button onclick={updateItemName}>Update item name in todoapp</button>
+         </p>
+    </div>
+</template>

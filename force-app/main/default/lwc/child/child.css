@@ -1,0 +1,17 @@
+/* child.css */
+h1 {
+    font-size: large;
+}
+
+:host {
+    display: block;
+    border: 2px solid red;
+    background: lightgray;
+}
+
+:host(.active) {
+background-color: lightgreen;
+}
+.view {
+    background-color: blueviolet;
+}
