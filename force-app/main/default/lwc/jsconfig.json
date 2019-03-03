@@ -27,6 +27,9 @@
             "c/event-simple": [
                 "eventSimple/eventSimple.js"
             ],
+            "c/event-with-data": [
+                "eventWithData/eventWithData.js"
+            ],
             "c/example": [
                 "example/example.js"
             ],

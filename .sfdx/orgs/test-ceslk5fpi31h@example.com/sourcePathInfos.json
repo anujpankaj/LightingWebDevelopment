@@ -64,9 +64,9 @@
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550030611773,
-            "changeTime": 1550030611773,
-            "contentHash": "7589665cdc8c1eae80252a914d81d8bfe6cc5f98",
+            "modifiedTime": 1551582825860,
+            "changeTime": 1551582825860,
+            "contentHash": "911d96d441adeff0284db452d6a9d77f13e27964",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -138,13 +138,12 @@
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550028251451,
-            "changeTime": 1550028251451,
-            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "modifiedTime": 1550214687795,
+            "changeTime": 1551522352761,
+            "contentHash": "f01cdd9605c25192ab66ae6c3489c9d835659fb4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -1895,9 +1894,9 @@
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550029978176,
-            "changeTime": 1550029978176,
-            "contentHash": "0bc6bfa0ce2507db7ca4b1380e0914dee0d9c312",
+            "modifiedTime": 1550205013821,
+            "changeTime": 1550205013821,
+            "contentHash": "c2f0ddf87b227597bdfb4dbffa3700ae2d025de4",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1907,10 +1906,10 @@
         {
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\ContactControllerCls.cls",
             "isDirectory": false,
-            "size": 801,
-            "modifiedTime": 1550030320692,
-            "changeTime": 1550030320692,
-            "contentHash": "278118ddfd7bc49533ec745fce8cad75d71787d6",
+            "size": 960,
+            "modifiedTime": 1550203233645,
+            "changeTime": 1550203233645,
+            "contentHash": "04dec5ddce33b0f8170ea794499568f26d2d9142",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1934,9 +1933,9 @@
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550030611864,
-            "changeTime": 1550030611911,
-            "contentHash": "01c41fcd89f781122a730f74ae989f9a529c3767",
+            "modifiedTime": 1551531158764,
+            "changeTime": 1551531158764,
+            "contentHash": "2cd1e88b83c3d5d8480196f6be2332b4d7c76a8f",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1946,10 +1945,10 @@
         {
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.html",
             "isDirectory": false,
-            "size": 1151,
-            "modifiedTime": 1548503672408,
-            "changeTime": 1548503672408,
-            "contentHash": "8c8f07501fe2963497857a8bedb9d36d52593841",
+            "size": 1442,
+            "modifiedTime": 1551530975750,
+            "changeTime": 1551530975750,
+            "contentHash": "cfd81b8703ee35841064b0d67a5ad0d05d9ad071",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1957,14 +1956,14 @@
     [
         "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.js",
         {
-            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.js",
             "isDirectory": false,
+            "size": 598,
+            "modifiedTime": 1551530841697,
+            "changeTime": 1551530841697,
+            "contentHash": "d4a2414463286a981d63047c3221f0b6406e0bcc",
             "isMetadataFile": false,
-            "size": 565,
-            "modifiedTime": 1550031201466,
-            "changeTime": 1550031201466,
-            "contentHash": "1bd0bc000d79b17ccfa9a531e1cf068f0a2e9e62"
+            "state": "u"
         }
     ],
     [
@@ -1976,6 +1975,240 @@
             "modifiedTime": 1548501334183,
             "changeTime": 1548501334183,
             "contentHash": "222fd29e2fc20ee08601169de11487291deb8078",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\Foo.cls",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\Foo.cls",
+            "isDirectory": false,
+            "size": 115,
+            "modifiedTime": 1551529353792,
+            "changeTime": 1551529353792,
+            "contentHash": "9c9dbadeff02e29ccc754e9917f3f88159669ede",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\Foo.cls-meta.xml",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\Foo.cls-meta.xml",
+            "isDirectory": false,
+            "size": 181,
+            "modifiedTime": 1551526740561,
+            "changeTime": 1551526740561,
+            "contentHash": "87ffb4b259f45cdc2b7e704f00758417dcfd6af5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\PMDRuletest.cls",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\PMDRuletest.cls",
+            "isDirectory": false,
+            "size": 562,
+            "modifiedTime": 1550214648245,
+            "changeTime": 1550214648245,
+            "contentHash": "7971701cbd94007e836c564d995885e82dea28b8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\PMDRuletest.cls-meta.xml",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\classes\\PMDRuletest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1551526731344,
+            "changeTime": 1551526731344,
+            "contentHash": "f3e9775a3f40ba9c66fefb46f998c59ebc8b3f80",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.svg",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData\\eventWithData.svg",
+            "isDirectory": false,
+            "size": 166,
+            "modifiedTime": 1551526350065,
+            "changeTime": 1551526350065,
+            "contentHash": "967aa282ac67e2be6f4d0ce2fcbcb80cb73abc6e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData\\eventWitdData.css",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\eventWithData\\eventWitdData.css",
+            "isDirectory": false,
+            "size": 84,
+            "modifiedTime": 1551531183322,
+            "changeTime": 1551531183322,
+            "contentHash": "b4e5054057c89ba900bb9a50a362e2f4f6dfde23",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551531782470,
+            "changeTime": 1551531782470,
+            "contentHash": "52bafd24baa1daabff30856c3a2374d4deb98e7d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551532368225,
+            "changeTime": 1551532368225,
+            "contentHash": "5244f94186cc70e1493f66fd778b55ad9db2c6ff",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab\\navTab.html",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab\\navTab.html",
+            "isDirectory": false,
+            "size": 131,
+            "modifiedTime": 1551531931164,
+            "changeTime": 1551531931164,
+            "contentHash": "90dd7f3f5dac69d4ae42949957f470d260bffe87",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab\\navTab.js",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab\\navTab.js",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1551533630019,
+            "changeTime": 1551533630019,
+            "contentHash": "686c86657b24ffb84131ce627d6fb3d095bc12d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab\\navTab.js-meta.xml",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTab\\navTab.js-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1551531839459,
+            "changeTime": 1551531839459,
+            "contentHash": "b2138726c7c5e5acb33d13081941b0d3380776f5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster\\navTabMaster.html",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster\\navTabMaster.html",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1551532531331,
+            "changeTime": 1551532531331,
+            "contentHash": "a62a56bcdd0625b170500ebabed8dec1692a62f6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster\\navTabMaster.js",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster\\navTabMaster.js",
+            "isDirectory": false,
+            "size": 102,
+            "modifiedTime": 1551532368223,
+            "changeTime": 1551532368223,
+            "contentHash": "e13460690cf1815708dbcc5691fd9ab3d5f14389",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster\\navTabMaster.js-meta.xml",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navTabMaster\\navTabMaster.js-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1551532805475,
+            "changeTime": 1551532805475,
+            "contentHash": "189a3e40984d091972e851cd9b16f117eb02a81f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551582825863,
+            "changeTime": 1551582825863,
+            "contentHash": "a36c08532a07fdd9149914f9bc87e790f2698a8f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample\\navigationLinkExample.html",
+        {
+            "state": "u",
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample\\navigationLinkExample.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1551585231510,
+            "changeTime": 1551585231510,
+            "contentHash": "54fa4e5ed91d97232fb9a7fb97b1a6b11615f018"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample\\navigationLinkExample.js",
+        {
+            "state": "u",
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample\\navigationLinkExample.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1131,
+            "modifiedTime": 1551585223250,
+            "changeTime": 1551585223250,
+            "contentHash": "d32628da0f9c6173589e7898e627d20de7655222"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample\\navigationLinkExample.js-meta.xml",
+        {
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\navigationLinkExample\\navigationLinkExample.js-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1551583963698,
+            "changeTime": 1551583963698,
+            "contentHash": "2a2aaa9aebbfdb2632f486f20389302e5618f6ac",
             "isMetadataFile": true,
             "state": "u"
         }

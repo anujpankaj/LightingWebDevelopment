@@ -1,9 +1,10 @@
-import { LightningElement, wire, track } from 'lwc';
+import { LightningElement, wire, track, api } from 'lwc';
 import getContactListMethod from '@salesforce/apex/ContactControllerCls.getContactList';
 
 
 export default class EventWithData extends LightningElement {
  @track selectedContact;
+ @api flexipageRegionWidth;
  @wire(getContactListMethod) contacts; 
  
   contactSelected(event){
