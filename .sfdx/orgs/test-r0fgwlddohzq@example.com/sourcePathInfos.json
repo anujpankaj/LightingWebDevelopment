@@ -662,16 +662,15 @@
     [
         "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc",
         {
+            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1551607015346,
-            "changeTime": 1551607015346,
-            "contentHash": "95cf7653a853eab6c5d899465e901eac42bf37c9",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1552641330263,
+            "changeTime": 1552641330263,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "89838e978d6945585b98c25201f7bc300435f427"
         }
     ],
     [
@@ -1532,15 +1531,15 @@
     [
         "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
         {
-            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 67,
             "modifiedTime": 1552622488243,
             "changeTime": 1552622488243,
-            "isWorkspace": false,
-            "contentHash": "555048063065baab1d5f7389c2ee8fc4fea4ded2"
+            "contentHash": "555048063065baab1d5f7389c2ee8fc4fea4ded2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -3521,6 +3520,58 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo",
+        {
+            "state": "u",
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552641330273,
+            "changeTime": 1552641330396,
+            "contentHash": "8ac0d51036000b3fcbaa7b53e7914ffd688708b9"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo\\testDemo.html",
+        {
+            "state": "u",
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo\\testDemo.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 297,
+            "modifiedTime": 1552641354947,
+            "changeTime": 1552641354947,
+            "contentHash": "d30da194cdd0355278eda95f3a41eb59c7e4a433"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo\\testDemo.js",
+        {
+            "state": "u",
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo\\testDemo.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 236,
+            "modifiedTime": 1552639768000,
+            "changeTime": 1552641311153,
+            "contentHash": "f8417bb1949943efdb5893b20e3fc196ff24bac0"
+        }
+    ],
+    [
+        "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo\\testDemo.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\testDemo\\testDemo.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1552639162000,
+            "changeTime": 1552641311158,
+            "contentHash": "e648f82a620e0ed76b2d7d8e52223c93ad99efa1"
         }
     ]
 ]

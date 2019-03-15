@@ -1532,16 +1532,15 @@
     [
         "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
         {
+            "state": "u",
             "sourcePath": "e:\\prerelease-spring19\\LightningWebComponentNew\\WebComponentDevelopment\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
             "isDirectory": false,
-            "size": 64,
-            "modifiedTime": 1552561025745,
-            "changeTime": 1552561025745,
-            "contentHash": "d656071f639841ca2b2d020786f9376c9706430f",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 67,
+            "modifiedTime": 1552622488243,
+            "changeTime": 1552622488243,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "555048063065baab1d5f7389c2ee8fc4fea4ded2"
         }
     ],
     [
